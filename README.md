@@ -1,6 +1,10 @@
 Hello Everyone,I'm Supriya Bharane
+   Student
 
-Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur
+   Coading
+   
+
+Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur\n
 🔭 Schooled from PCM with Computer Applications stream from MJP, HSC Board - 80.0%
 💬 Ask me about CP/Html/CSS/ThreeJs
 🌱 I’m currently learning Frontend/Backend Development
@@ -8,3 +12,4 @@ Currently pursuing B.Tech in Information Technology(2022-2026) from National Ins
 ⚡ Fun fact: I think I am funny, with a tint of zeal and determination.
 📫 How to reach me supriyabharane6@gmil.com
 
+Connet With Me
