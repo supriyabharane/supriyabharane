@@ -1,4 +1,4 @@
-HEllo Everyone,I'm Supriya Bharane
+Hello Everyone,I'm Supriya Bharane
 
 *Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur
 *🔭 Schooled from PCM with Computer Applications stream from MJP, HSC Board - 80.0%
